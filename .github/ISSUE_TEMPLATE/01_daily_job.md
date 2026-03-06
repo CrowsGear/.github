@@ -1,6 +1,6 @@
 ---
-name: Daily Job
-about: 하루 업무를 정리하는 이슈 템플릿
+name: DAILY JOB
+about: 하루 업무 이슈 템플릿
 title: "[DAILY] YYYY-MM-DD"
 labels: ["DAILY", "PARENT"]
 assignees: []
