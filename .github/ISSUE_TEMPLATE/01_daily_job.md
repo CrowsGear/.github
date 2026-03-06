@@ -1,5 +1,5 @@
 ---
-name: DAILY JOB
+name: "📅 DAILY JOB"
 about: 하루 업무 이슈 템플릿
 title: "[DAILY] YYYY-MM-DD"
 labels: ["DAILY", "PARENT"]

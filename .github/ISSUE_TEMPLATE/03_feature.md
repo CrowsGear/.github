@@ -1,5 +1,5 @@
 ---
-name: FEATURE 
+name: "✨ FEATURE"
 about: 새로운 기능 구현 또는 업무 단위 이슈
 title: "[FEAT] "
 labels: FEATURE
