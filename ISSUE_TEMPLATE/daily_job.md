@@ -2,7 +2,7 @@
 name: Daily Job
 about: 하루 업무를 정리하는 이슈 템플릿
 title: "[Daily] YYYY-MM-DD"
-labels: ["daily"]
+labels: daily
 assignees: []
 ---
 

@@ -2,7 +2,7 @@
 name: Study
 about: 기술 조사, 학습, 또는 리서치 이슈
 title: "[STUDY] "
-labels: ["study"]
+labels: study
 assignees: []
 ---
 
