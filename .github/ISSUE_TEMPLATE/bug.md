@@ -1,8 +1,8 @@
 ---
-name: Bug
+name: BUG REPORT
 about: 발견된 버그 수정 이슈
 title: "[BUG] "
-labels: bug
+labels: BUG
 assignees: []
 ---
 
@@ -12,8 +12,11 @@ assignees: []
 ## 🐛 버그 현상
 - 현재 발생하는 버그의 증상을 적어주세요.
 
+## 원인 분석
+- 
+
 ## 🛠️ 해결 방법
-- 어떻게 수정해야 할지, 혹은 수정했는지 정리해주세요.
+- 
 
 ## ✅ 주요 작업 (Checklist)
 - [ ] 
