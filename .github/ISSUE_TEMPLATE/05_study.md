@@ -6,19 +6,14 @@ labels: STUDY
 assignees: []
 ---
 
-## 🔗 관련 Parent Issue
-
-- [ ] # (Parent Issue 이슈 번호 기입)
-
-## 📚 학습 목표
+## 📚 학습 목표 (Required)
 
 - 학습하거나 조사할 주제를 적어주세요.
 
-## ✅ 주요 항목 (Checklist)
-
-- [ ]
-- [ ]
-
-## 📓 요약 및 결과
+## 📓 요약 및 결과 (Optional)
 
 - 학습 후 얻은 지식이나 조사 결과를 정리해주세요.
+
+## ✅ 확인 사항 (Checklist)
+
+- [ ] ...

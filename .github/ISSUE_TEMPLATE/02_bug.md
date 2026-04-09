@@ -6,22 +6,18 @@ labels: BUG
 assignees: []
 ---
 
-## 🔗 관련 Parent Issue
-
-- [ ] # (Parent Issue 이슈 번호 기입)
-
-## 🐞 버그 현상
+## 🐞 버그 현상 (Required)
 
 - 현재 발생하는 버그의 증상을 적어주세요.
 
-## 원인 분석
+## 원인 분석 (Optional)
 
 -
 
-## 🛠️ 해결 방법
+## 🛠️ 해결 방법 (Optional)
 
 -
 
-## ✅ 주요 작업 (Checklist)
+## ✅ 확인 사항 (Checklist)
 
 - [ ] ...

@@ -6,19 +6,14 @@ labels: ISSUE
 assignees: []
 ---
 
-## 🔗 관련 Parent Issue
-
-- [ ] # (Parent Issue 이슈 번호 기입)
-
-## 📋 개요
+## 📋 개요 (Required)
 
 - 논의하고 싶은 내용이나 문제 상황을 간단히 설명해주세요.
 
-## 💬 의견 제시
+## 💬 의견 제시 (Optional)
 
 - 구체적인 의견이나 제안 내용을 적어주세요.
 
-## ✅ 향후 조치 (Checklist)
+## ✅ 확인 사항 (Checklist)
 
-- [ ]
-- [ ]
+- [ ] ...
